@@ -5,32 +5,46 @@ body {
 h1{
     color:white
 }
-top-heading{
+.top-content{
     font-family: Verdana;
     font-weight: normal;
     font-size:50px;
     color: white;
     text-align: center
 }
-top-subheading{
+.top-contentsub{
     font-family: Verdana;
     font-weight: normal;
+    text-decoration: underline;
     font-size:16px;
     color: aquamarine;
     text-align: center
 }
-mid-content{
+.mid-content{
     font-family: Verdana;
     font-weight: 300;
     font-size:42px;
-    color: aquamarine;
+    color: white;
     text-align: center
 }
-mid-contentsub{
-    font-family: Verdana;
-    font-weight: normal;
-    font-size:21px;
+.mid-contentsub{
+    font: normal 21px Verdana;
     color: gray;
     text-align: center
 
+}
+.end-contetn{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size:42px;
+    color: white;
+    text-align: center
+}
+.footer{
+    font-family: Verdana;
+    font-weight: normal;
+    
+    font-size:21px;
+    color: gray;
+    text-align: right
 }
