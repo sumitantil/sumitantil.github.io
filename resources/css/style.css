@@ -1,6 +1,36 @@
 body {
-    background-color: lightcyan
+    background-color: black;
+    text-align: center
 }
 h1{
-    color:bisque
+    color:white
+}
+top-heading{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size:50px;
+    color: white;
+    text-align: center
+}
+top-subheading{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size:16px;
+    color: aquamarine;
+    text-align: center
+}
+mid-content{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size:42px;
+    color: aquamarine;
+    text-align: center
+}
+mid-contentsub{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size:21px;
+    color: gray;
+    text-align: center
+
 }
